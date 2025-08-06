@@ -1,7 +1,7 @@
 # Cheung_JCI2025
 Code used to analyze single-cell RNA-sequencing data (GEX and BCR) associated with the following manuscript:
 
-Cheung et al. Reduced vaccine-induced germinal center outputs in inflammatory bowel disease patients treated with anti-TNF biologics. Journal of Clinical Investigation 2025.
+Cheung et al. Reduced vaccine-induced germinal center outputs in inflammatory bowel disease patients treated with anti-TNF biologics. Journal of Clinical Investigation 2025. https://doi.org/10.1172/JCI192589.
 
 Raw GEX and BCR data can be downloaded from NCBI GEO under accession number: GSE290006.
 
